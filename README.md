@@ -1,6 +1,6 @@
 # Hello World in Python mit VS Code und GitHub
 
-Dieses Projekt wurde dazu genutzt, eine einfache **Hello World**-Anwendung in Python mit VS Code (Visual Studio Code) zu erstellen und anschließend in ein neues GitHub-Repository zu übertragen.
+Mit diesem Projekt wurde der Einstieg in die GitHub-Welt im Zusammenspiel mit Visual Studio Code (VS Code) und Python ausprobiert. Das Python-Skript ist überraschenderweise ein überschaubares **Hello World**-Programm.
 
 ## Voraussetzungen
 
